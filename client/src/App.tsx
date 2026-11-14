@@ -1,9 +1,8 @@
-import './App.css'
 
 function App() {
 
   return (
-    <main className='bg-gray-700'>
+    <main>
       This is React!
     </main>
   )
